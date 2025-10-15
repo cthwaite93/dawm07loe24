@@ -1,0 +1,15 @@
+:toc: macro
+:toclevels: 2
+:sectnums:
+
+[toc]
+
+:numbered!:
+== Introducció
+safsafsafsafasfsafa
+
+== Resultats d'aprenentatge
+safsafasfasasasfasf
+
+:numbered:
+== Content
