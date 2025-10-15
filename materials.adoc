@@ -4,10 +4,13 @@ Cristòfol-Lluís Thwaite Rivas <crivasi@xtec.cat>
 :revdate: October 2025
 :title-page:
 
-:toc: left
-:toclevels: 1
+
 :sectnums:
-:toc-placement: macro
+:sectnumlevels: 3
+:toc: macro
+:toclevels: 1
+
+[toc]
 
 :sectnums!:
 == Introducció
