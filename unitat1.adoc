@@ -1,11 +1,32 @@
-:toc:
-:toclevels: 2
+:numbered:
+== Unitat 1. Introducció al desenvolupament en entorn servidor
 
-== Introducció
-safsafsafsafasfsafa
+:numbered!:
+=== Introducció
+TODO
 
-== Resultats d'aprenentatge
-safsafasfasasasfasf
+=== Resultats d'aprenentatge
 
-:sectnums:
-== Content
+Al final d'aquesta unitat l'alumne/a:
+
+* RA1. Selecciona les arquitectures i tecnologies de programació web en entorn servidor, analitzant les seves capacitats i les característiques pròpies.
+.. Caracteritza i diferencia els models d'execució de codi al servidor i al client web.
+.. Reconeix els avantatges que proporciona la generació dinàmica de pàgines web.
+.. Identifica els mecanismes d'execució de codi en els servidors web.
+.. Reconeix les funcionalitats que aporten els servidors d'aplicacions i la seva integració amb els servidors web.
+.. Identifica i caracteritza els principals llenguatges i tecnologies relacionats amb la programació web en entorn servidor.
+.. Verifica els mecanismes d'integració dels llenguatges de marques amb els llenguatges de programació en entorn servidor.
+.. Reconeix i avalua les eines de programació en entorn servidor.
+
+* RA2. Escriu sentències executables per un servidor web reconeixent i aplicant procediments d'integració del codi en llenguatge de marques.
+.. Reconeix els mecanismes de generació de pàgines web a partir de llenguatges de marques amb codi embegut.
+.. Identifica les principals tecnologies associades.
+.. Utilitza etiquetes per a la inclusió de codi en el llenguatge de marques.
+.. Reconeix la sintaxi del llenguatge de programació que s'ha d'utilitzar.
+.. Escriu sentències simples i en comprova els efectes en el document resultant.
+
+:numbered:
+=== Content
+TODO
+
+:numbered!:

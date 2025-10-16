@@ -1,11 +1,42 @@
-:toc:
-:toclevels: 2
+:numbered:
+== Unitat 4. REST APIs i aplicacions web híbrides
 
-== Introducció
-safsafsafsafasfsafa
+:numbered!:
+=== Introducció
+TODO
 
-== Resultats d'aprenentatge
-safsafasfasasasfasf
+=== Resultats d'aprenentatge
+* RA7. Desenvolupa serveis web reutilitzables i accessibles mitjançant protocols web, verificant-ne el funcionament.
+.. Reconeix les característiques pròpies i l'àmbit d'aplicació dels serveis web.
+.. Reconeix els avantatges d'utilitzar serveis web per a proporcionar accés a funcionalitats incorporades a la lògica de negoci d'una aplicació.
+.. Identifica les tecnologies i els protocols implicats en el consum de serveis web.
+.. Programa un servei web.
+.. Crea el document de descripció del servei web.
+.. Verifica el funcionament del servei web.
+.. Consumeix el servei web.
+.. Documenta un servei web.
 
-:sectnums:
-== Content
+* RA8. Genera pàgines web dinàmiques analitzant i utilitzant tecnologies i frameworks del servidor web que afegeixin codi al llenguatge de marques.
+.. Identifica les diferències entre l'execució de codi al servidor i al client web.
+.. Reconeix els avantatges d'unir les dues tecnologies en el procés de desenvolupament de programes.
+.. Identifica les tecnologies i els frameworks relacionats amb la generació per part del servidor de pàgines web amb guions embeguts.
+.. Utilitza aquestes tecnologies i frameworks per a generar pàgines web que incloguin interacció amb l'usuari en forma d'advertències i de peticions de confirmació.
+.. Utilitza aquestes tecnologies i frameworks per a generar pàgines web que incloguin verificació de formularis.
+.. Utilitza aquestes tecnologies i frameworks per a generar pàgines web que incloguin modificació dinàmica del seu contingut i la seva estructura.
+.. Aplica aquestes tecnologies i frameworks en la programació d'aplicacions web.
+
+* RA9. Desenvolupa aplicacions web híbrides seleccionant i utilitzant tecnologies, frameworks servidor i repositoris heterogenis d'informació.
+.. Reconeix els avantatges que proporciona la reutilització de codi i l'aprofitament d'informació ja existent.
+.. Identifica tecnologies i frameworks aplicables en la creació d'aplicacions web híbrides.
+.. Crea una aplicació web que recuperi i processi dipòsits d'informació ja existents.
+.. Crea dipòsits específics a partir d'informació existent a internet i en magatzems d'informació.
+.. Utilitza llibreries de codi i frameworks per incorporar funcionalitats específiques a una aplicació web.
+.. Programa serveis i aplicacions web utilitzant com a base informació i codi generats per tercers.
+.. Analitza i utilitza llibreries de codi relacionades amb Big Data i intel·ligència de negocis, per incorporar anàlisi i intel·ligència de dade provinent de repositoris.
+.. Prova, depura i documenta les aplicacions generades.
+
+:numbered:
+=== Content
+TODO
+
+:numbered!:

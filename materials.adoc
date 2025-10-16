@@ -1,17 +1,13 @@
 = M07 - Desenvolupament web en entorn servidor
 Cristòfol-Lluís Thwaite Rivas <crivasi@xtec.cat>
-
 :doctype: book
 :revdate: October 2025
-
 :title-page:
-
+:toc: left
+:toclevels: 4
 :sectnums:
-:sectnumlevels: 3
-:toc:
-:toclevels: 1
 
-:sectnums!:
+:numbered!:
 == Introducció
 
 El desenvolupament web en entorn servidor ha evolucionat a un ritme trepidant en els últims vint-i-cinc anys.  En els seus principis, els desenvolupadors no només escrivien el codi que implementava la lògica de negoci de l'aplicació, sinó que també s'encarregaven de programar els components com l'autenticació d'usuaris, l'accés a les bases de dades i de més, permeten el bon funcionament de l'aplicació.  
@@ -54,44 +50,7 @@ En finalitzar aquest mòdul l'alumne/a adquirirà els següents resultats d'apre
 
 * RA9. Desenvolupa aplicacions web híbrides seleccionant i utilitzant tecnologies, frameworks servidor i repositoris heterogenis d’informació.
 
-// ----------------------
-// Unitat 1
-// ----------------------
-:sectnums:
-:sectnumoffset: 0
-== Unitat 1. Introducció al desenvolupament en entorn servidor
-:leveloffset: +1
 include::unitat1.adoc[]
-:leveloffset: -1
-
-
-// ----------------------
-// Unitat 2
-// ----------------------
-:sectnums:
-:sectnumoffset: 0
-== Unitat 2. Lògica de programació i gestió de formularis
-:leveloffset: +1
 include::unitat2.adoc[]
-:leveloffset: -1
-
-// ----------------------
-// Unitat 3
-// ----------------------
-:sectnums:
-:sectnumoffset: 0
-== Unitat 3. Accés a dades i autenticació
-:leveloffset: +1
 include::unitat3.adoc[]
-:leveloffset: -1
-
-// ----------------------
-// Unitat 4
-// ----------------------
-:sectnums:
-:sectnumoffset: 0
-== Unitat 4. REST APIs i aplicacions web híbrides
-:leveloffset: +1
 include::unitat4.adoc[]
-:leveloffset: -1
-

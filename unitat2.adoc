@@ -1,11 +1,33 @@
-:toc:
-:toclevels: 2
+:numbered:
+== Unitat 2. Lògica de programació i gestió de formularis
 
-== Introducció
-safsafsafsafasfsafa
+:numbered!:
+=== Introducció
+TODO
 
-== Resultats d'aprenentatge
-safsafasfasasasfasf
+=== Resultats d'aprenentatge
 
-:sectnums:
-== Content
+Al final d'aquesta unitat l'alumne/a:
+
+*  RA2. Escriu sentències executables per un servidor web reconeixent i aplicant procediments d'integració del codi en llenguatge de marques.
+.. Utilitza etiquetes per a la inclusió de codi en el llenguatge de marques.
+.. Reconeix la sintaxi del llenguatge de programació que s'ha d'utilitzar.
+.. Escriu sentències simples i en comprova els efectes en el document resultant.
+.. Utilitza directives per modificar el comportament predeterminat.
+.. Utilitza els diferents tipus de variables i operadors disponibles en el llenguatge.
+.. Identifica els àmbits d'utilització de les variables.
+
+* RA3. Escriu blocs de sentències embeguts en llenguatges de marques, seleccionant i utilitzant les estructures de programació.
+.. Utilitza mecanismes de decisió en la creació de blocs de sentències.
+.. Utilitza bucles i verifica el seu funcionament.
+.. Utilitza matrius (arrays) per emmagatzemar i recuperar conjunts de dades.
+.. Crea i utilitza funcions.
+.. Utilitza formularis web per a interactuar amb l'usuari del navegador web.
+.. Empra mètodes per recuperar la informació introduïda en el formulari.
+.. Afegeix comentaris al codi.
+
+:numbered:
+=== Content
+TODO
+
+:numbered!:

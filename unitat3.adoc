@@ -1,11 +1,40 @@
-:toc:
-:toclevels: 2
+:numbered:
+== Unitat 3. Accés a dades i autenticació
 
-== Introducció
-safsafsafsafasfsafa
+:numbered!:
+=== Introducció
+TODO
 
-== Resultats d'aprenentatge
-safsafasfasasasfasf
+=== Resultats d'aprenentatge
+* RA4. Desenvolupa aplicacions web embegudes en llenguatges de marques analitzant i incorporant funcionalitats segons especificacions.
+.. Identifica els mecanismes disponibles per al manteniment de la informació que fa un client web concret i n'assenyala els avantatges.
+.. Utilitza mecanismes per mantenir l'estat de les aplicacions web.
+.. Utilitza mecanismes per emmagatzemar informació en el client web i per recuperar el seu contingut.
+.. Identifica i caracteritza els mecanismes disponibles per a l'autenticació d'usuaris.
+.. Escriu aplicacions que integrin mecanismes d'autenticació d'usuaris.
+.. Utilitza eines i entorns per a facilitar la programació, prova i depuració de codi.
 
-:sectnums:
-== Content
+* RA5. Desenvolupa aplicacions web identificant i aplicant mecanismes per separar el codi de presentació de la lògica de negoci.
+.. Identifica els avantatges de separar la lògica de negoci dels aspectes de presentació de l'aplicació.
+.. Analitza i utilitza mecanismes i frameworks que permeten realitzar aquesta separació i les seves característiques principals.
+.. Utilitza objectes i controls en el servidor per generar l'aspecte visual de l'aplicació web en el client.
+.. Utilitza formularis generats de manera dinàmica per respondre als esdeveniments de l'aplicació web.
+.. Identifica i aplica els paràmetres relatius a la configuració de l'aplicació web.
+.. Escriu aplicacions web amb manteniment d'estat i separació de la lògica de negoci.
+.. Aplica els principis i els patrons de disseny de la programació orientada a objectes.
+.. Prova i documenta el codi.
+
+* RA6. Desenvolupa aplicacions d'accés a magatzems de dades, aplicant mesures per mantenir la seguretat i la integritat de la informació.
+.. Analitza les tecnologies que permeten l'accés mitjançant programació a la informació disponible en magatzems de dades.
+.. Crea aplicacions que estableixin connexions amb bases de dades.
+.. Recupera informació emmagatzemada en bases de dades.
+.. Publica en aplicacions web la informació recuperada.
+.. Utilitza conjunts de dades per emmagatzemar la informació.
+.. Crea aplicacions web que permetin l'actualització i l'eliminació d'informació disponible en una base de dades.
+.. Prova i documenta les aplicacions.
+
+:numbered:
+=== Content
+TODO
+
+:numbered!:
