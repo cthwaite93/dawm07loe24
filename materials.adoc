@@ -1,16 +1,15 @@
 = M07 - Desenvolupament web en entorn servidor
 Cristòfol-Lluís Thwaite Rivas <crivasi@xtec.cat>
+
 :doctype: book
 :revdate: October 2025
-:title-page:
 
+:title-page:
 
 :sectnums:
 :sectnumlevels: 3
-:toc: macro
+:toc:
 :toclevels: 1
-
-[toc]
 
 :sectnums!:
 == Introducció
